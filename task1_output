@@ -1,0 +1,22 @@
+Enter password length: 9
+Include lowercase letters? (y/n): y
+Include uppercase letters? (y/n): y
+Include numbers? (y/n): y
+Include symbols? (y/n): y
+
+Your generated password is: MyH!Y|gi[
+
+Would you like to generate another password? (y/n): y
+Enter password length: 6
+Password length should be at least 8 characters
+Enter password length: 9
+Include lowercase letters? (y/n): y
+Include uppercase letters? (y/n): n
+Include numbers? (y/n): y
+Include symbols? (y/n): y
+
+Your generated password is: 9`'y2~b<,
+
+Would you like to generate another password? (y/n): n
+
+Process finished with exit code 0
